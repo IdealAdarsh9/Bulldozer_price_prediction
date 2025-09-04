@@ -48,9 +48,4 @@ We build an **end-to-end machine learning pipeline** that:
 - Save predictions to `submission.csv`
 
 ### 4. Submission
-Final submission format:
-```csv
-SalesID,SalePrice
-12242,15950.00
-12243,31000.50
-...
+
